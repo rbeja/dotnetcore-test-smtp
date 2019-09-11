@@ -1,5 +1,5 @@
 # dotnetcore-test-smtp
-Simple app based on .Net Core to test SMTP Server from command line
+Simple app based on .NET Core to test SMTP Server from command line
 
 ## Build and test
 
