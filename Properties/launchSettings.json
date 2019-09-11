@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dotnetcore-test-smtp": {
+      "commandName": "Project",
+      "commandLineArgs": "--server smtp.office365.com --port 25 -u email@email.com -p password--subject hello --body world --to email@email.com"
+    }
+  }
+}
